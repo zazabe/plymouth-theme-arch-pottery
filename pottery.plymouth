@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Arch Linux Pottery
+Description=Pottery theme for Plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pottery
+ScriptFile=/usr/share/plymouth/themes/pottery/pottery.script
