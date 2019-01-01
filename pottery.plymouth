@@ -1,8 +1,7 @@
 [Plymouth Theme]
-Name=Arch Linux Pottery
-Description=Pottery theme for Plymouth
-ModuleName=script
+Name=Potterify
+Description=Spinning pottery
+ModuleName=throbgress
 
-[script]
-ImageDir=/usr/share/plymouth/themes/pottery
-ScriptFile=/usr/share/plymouth/themes/pottery/pottery.script
+[throbgress]
+ImageDir=/usr/share/plymouth/themes/potterify
